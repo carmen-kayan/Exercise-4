@@ -1,6 +1,6 @@
 from time import time
 
-def my_func(a):
+def my_func(a, second_arg, thrid_arg):
     return a * 3
 
 
